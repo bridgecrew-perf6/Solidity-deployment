@@ -1,0 +1,28 @@
+[
+  {
+    "inputs": [],
+    "name": "message",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "string",
+        "name": "initialMessage",
+        "type": "string"
+      }
+    ],
+    "name": "set_mess",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]
