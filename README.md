@@ -12,5 +12,5 @@
 	`MNEMONIC`: containing your metamask mnemonic
 	`API`: containing your infura.io api key.
 
-To run tests do `npm run tests`
+To run tests do `npm run tests`  
 To deploy do `npm deploy.js`
